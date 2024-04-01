@@ -1,17 +1,17 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Matthew Slaski # your name (or website title) here
+logo: "/images/Professional Headshot.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Edit these links below   
   <br>
   in _config.yml 
   <br><br>
-  <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/matthew-slaski-b942671b6/">LinkedIn</a> 
   <br>
-  <a href="https://bowen.finance/cv/" class="btn btn--info">Resume</a>  
+  <a href="/images/Slaski, Matthew_Lehigh_Resume.pdf"btn btn--info">Resume</a>  
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
+  <a href="https://github.com/slaski07">GitHub</a>  
   <br>
   <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
   <br>
