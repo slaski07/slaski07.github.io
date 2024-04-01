@@ -9,12 +9,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="/images/Slaski, Matthew_Lehigh_Resume.pdf"btn btn--info">Resume</a>  
   <br>
-  <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
-  <br>
   <a href="https://github.com/slaski07">GitHub</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
-  <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
   
 theme: jekyll-theme-minimal
