@@ -4,7 +4,7 @@ Current senior in the rigorous Integrated Business and Engineering (IBE) Honors 
 
 <!-- Upload your own photo and change the path -->
 
-<img src="images/Nice_Photo.?raw=true" width="400" height="400">
+<img src="images/Nice_Photo.JPG?raw=true" width="400" height="500">
 
 ---
 
