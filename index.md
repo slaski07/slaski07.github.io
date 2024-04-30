@@ -26,7 +26,9 @@ Provided here is the file building out the sample used for the midterm.
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Report on Streaming Services' Effects on Holding Company](NA)**_
+
+Provided here is the report for my final project in Fin 377.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
