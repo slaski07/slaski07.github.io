@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Current senior in the rigorous Integrated Business and Engineering (IBE) Honors Program. Majoring in Finance with expected graduation in May 2024. Also pursuing a Graduate Masters degree in Financial Engineering with expected graduation in May 2025. An ambitious and driven student with skills in both the finance and engineering sides. These strong skills include Microsoft Office (Excel, PowerPoint, Word), R, Adobe Premiere Pro, and Salesforce. Most invested in a financial analysis angle using mathematics and engineering thinking in a business financial side.
 
 <!-- Upload your own photo and change the path -->
 
