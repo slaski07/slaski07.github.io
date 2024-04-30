@@ -20,11 +20,9 @@ Provided here is the report for my midterm project in Fin 377.
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Code/Analysis File](build_sample)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Provided here is the file building out the sample used for the midterm.
 
 ---
 
