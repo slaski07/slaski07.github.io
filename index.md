@@ -12,7 +12,7 @@ Current senior in the rigorous Integrated Business and Engineering (IBE) Honors 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Report on Natural language Processing 10-Ks](pdf/report)**_
+_**[Report on Natural language Processing 10-Ks](report)**_
 
 Provided here is the report for my midterm project in Fin 377. 
 
