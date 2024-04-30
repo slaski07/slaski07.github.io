@@ -8,13 +8,13 @@ Current senior in the rigorous Integrated Business and Engineering (IBE) Honors 
 
 ---
 
-## Portfolio
+## Midterm Analysis
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Report on Natural language Processing 10-Ks](pdf/report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+Provided here is the report for my midterm project in Fin 377. 
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
