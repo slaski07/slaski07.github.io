@@ -1,6 +1,6 @@
 ## About Me
 
-Current senior in the rigorous Integrated Business and Engineering (IBE) Honors Program. Majoring in Finance with expected graduation in May 2024. Also pursuing a Graduate Masters degree in Financial Engineering with expected graduation in May 2025. An ambitious and driven student with skills in both the finance and engineering sides. These strong skills include Microsoft Office (Excel, PowerPoint, Word), R, Adobe Premiere Pro, and Salesforce. Most invested in a financial analysis angle using mathematics and engineering thinking in a business financial side.
+Current senior in the rigorous Integrated Business and Engineering (IBE) Honors Program. Majoring in Finance with expected graduation in May 2024. Also pursuing a Graduate Masters degree in Financial Engineering with expected graduation in May 2025. 
 
 <!-- Upload your own photo and change the path -->
 
@@ -8,7 +8,7 @@ Current senior in the rigorous Integrated Business and Engineering (IBE) Honors 
 
 ---
 
-## Midterm Analysis
+## Various Projects
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -30,28 +30,25 @@ _**[Report on Streaming Services' Effects on Holding Company](NA)**_
 
 Provided here is the report for my final project in Fin 377.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+
+_**[Capstone Final Project](Capstone_Final_Presentation.pdf)**_
+
+Provided here is my Capstone prsentation for IBE.
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+## Skills & Career Objective 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-## Career Objectives
-
-Write what you want. 
-
-Sell yourself!
+An ambitious and driven student with skills in both the finance and engineering sides. These strong skills include Microsoft Office (Excel, PowerPoint, Word), R, Adobe Premiere Pro, and Salesforce. Most invested in a financial analysis angle using mathematics and engineering thinking in a business financial side.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Ultimate Frisbee
+- Creation of YouTube videos by reviewing movies/shows
+- Hiking and travelling
+- Running
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
