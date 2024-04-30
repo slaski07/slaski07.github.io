@@ -16,7 +16,7 @@ _**[Report on Natural language Processing 10-Ks](pdf/report)**_
 
 Provided here is the report for my midterm project in Fin 377. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_13_2.png?raw=true"/>
 
 ---
 
