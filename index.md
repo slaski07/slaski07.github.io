@@ -5,7 +5,7 @@ Current senior in the rigorous Integrated Business and Engineering (IBE) Honors 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="images/Nice_Photo.JPG" width="50%">
 </p>
 
 ---
