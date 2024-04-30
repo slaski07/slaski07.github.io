@@ -1,3 +1,7 @@
+---
+ layout: wide_default
+ ---    
+
 ## Summary
 
 The goal of this project was to answer the question of whether 10-K filings contain value-relevant information in the sentiment of the text. Furthermore, it was also about if the sentiment in a 10k statement impacted stocks returns - either in a positive or negative way. This was a cross-sectional event study. After looking at the results, I realized that many of the results were inconclusive due to many contradictions. Some variables were positively affected by positive sentiment, but some were negatively affected. This made analysis and conclusions unpredictable, especially given the time frame of the reports.
